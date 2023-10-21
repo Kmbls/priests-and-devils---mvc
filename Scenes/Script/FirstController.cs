@@ -90,6 +90,7 @@ void Update () {
                                 }
                             }
                         }
+                        check_if_lose();
                         return;
                     }
                     if(name != "background"){
